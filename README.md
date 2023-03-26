@@ -14,7 +14,7 @@ The UK Food Standards Agency evaluates various establishments across the United 
 ### Analysis
 * Analysis hygiene score of 20 of the resturant. 
 * Looking rating value number of resturant more than 4 rate of restaurant number from data set.   
-* Look at lowest hygiene value of 5 establishments resturant in specific location.
+* Look at lowest hygiene value of 5 establishments restaurant in specific location.
 * find out in Local Authority area have a hygiene score of 0.
 
 ## Technologies ##
